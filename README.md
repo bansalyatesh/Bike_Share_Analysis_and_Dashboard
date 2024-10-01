@@ -25,10 +25,4 @@ This project focuses on analyzing the performance of a bike-sharing business usi
 - **MS SQL Server**: The data is pulled in real-time through SQL queries.
 - **Power Query & DAX**: Applied for data transformation and creating calculated metrics.
 
-## Installation and Setup
 
-To run the analysis or view the dashboard:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepositoryname.git
